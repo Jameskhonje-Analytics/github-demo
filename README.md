@@ -8,3 +8,8 @@ Hello
 
 
 # Project objectives
+This is a demo repo to teach myself how to use Git and Github in a collaborative setting
+
+
+# Resources
+Data not available (sensitive)
